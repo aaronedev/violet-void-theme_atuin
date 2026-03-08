@@ -1,0 +1,13 @@
+[theme]
+name = "violet-void-theme_atuin"
+parent = "default"
+
+[colors]
+AlertInfo = "#29adff"
+AlertWarn = "#ff74d0"
+AlertError = "#ff1a67"
+Annotation = "#7c6f98"
+Base = "#e8d5e8"
+Guidance = "#00a8a4"
+Important = "#c1a6ff"
+Title = "#dbfdff"
