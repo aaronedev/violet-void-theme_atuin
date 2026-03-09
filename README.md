@@ -20,3 +20,7 @@ Coming soon.
 ## License
 
 MIT
+
+---
+
+Part of the [Violet Void Theme Monorepo](https://github.com/aaronedev/violet-void-monorepo).
